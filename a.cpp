@@ -8,8 +8,8 @@ inline double sqr(double v) {
 }
 
 int main(){
-    int i = 0,n,a[100];
-    double b=0.0,c=0.0;
+    int i = 0;
+    double a[100],n,b=0.0,c=0.0;
     while(cin >> n){
         a[i] = n;
         i++;
